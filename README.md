@@ -69,8 +69,6 @@ Sekiro No Parry is a gameplay mod for **Sekiro: Shadows Die Twice** that removes
 
 Created by **OcelotikiKo**.
 
-Developed with assistance from **OpenAI Codex** and tools maintained by the FromSoftware modding community, including Universal Modder, Smithbox, and Nuxe.
-
 Sekiro: Shadows Die Twice is developed by FromSoftware. This is an unofficial fan-made modification.
 
 ---
